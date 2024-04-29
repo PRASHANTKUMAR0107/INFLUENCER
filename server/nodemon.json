@@ -1,0 +1,12 @@
+{
+    "env": {
+    "MONGO_ATLAS_USER": "prashantkumar010704",
+    "MONGO_ATLAS_PW": "DF1BVkeFJKihToqO",
+    "MONGO_ATLAS_DB": "influencer",
+    "CLOUDINARY_API_KEY": "268253398359854",
+    "CLOUDINARY_API_SECRET": "vwpg4W2va9OuVXfIXIkYQMZba4c",
+    "CLOUDINARY_NAME": "djk1bnzbw",
+    "JWT_KEY": "hello@9",
+    "GOOGLE_API": "AIzaSyCQd11PqBEgv4pVu9fHWSTroZBJu15xmsM"
+}
+}
